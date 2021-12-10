@@ -1,9 +1,6 @@
 package Voblikova;
 
 
-import java.awt.desktop.OpenFilesEvent;
-import java.sql.SQLOutput;
-
 /**
  * класс параметризированная хэш-таблица
  * можно добавлять как ключи так и значения любых типов
